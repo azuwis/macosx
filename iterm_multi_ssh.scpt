@@ -1,6 +1,6 @@
 -- -*- Mode: AppleScript -*-
 
--- this script will prompt a input box, run ~/bin/get_host with the input as the
+-- this script will prompt an input box, run ~/bin/get_host with the input as the
 -- param to get a list of hosts, one host per line, then open multiple tabs in
 -- iTerm and ssh all the hosts.
 
